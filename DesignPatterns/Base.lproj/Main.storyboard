@@ -91,10 +91,10 @@
             </objects>
             <point key="canvasLocation" x="3195" y="45"/>
         </scene>
-        <!--View Controller-->
+        <!--Factory View Controller-->
         <scene sceneID="aXw-MY-eHw">
             <objects>
-                <viewController id="SbE-Hd-KcK" sceneMemberID="viewController">
+                <viewController id="SbE-Hd-KcK" customClass="FactoryViewController" customModule="DesignPatterns" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="ds3-9d-ZNn"/>
                         <viewControllerLayoutGuide type="bottom" id="WhT-lE-PJi"/>
